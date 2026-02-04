@@ -1,0 +1,56 @@
+Enter the base number (n): 2
+Enter the number of iterations (i): 3
+
+AI Bot: Let's start calculating with base 2 and 3 iterations!
+n * n
+(n * n) * (n * n)
+((n * n) * (n * n)) * ((n * n) * (n * n))
+AI Bot: Here's the generated expression: ((n * n) * (n * n)) * ((n * n) * (n * n)) = 256
+Correct answer: 354
+
+AI Bot: Such is life...
+
+
+
+AI Bot: Here's the generated expression: ((n * n) * (n * n)) * ((n * n) * (n * n)) = 256
+Correct answer: 256
+
+AI Bot: YEEEEEHAWWWWWWWWWWW
+
+----------------
+
+Enter the base number (n): 3
+Enter the number of iterations (i): 6
+
+AI Bot: Let's start calculating with base 3 and 6 iterations!
+n * n
+(n * n) * (n * n)
+((n * n) * (n * n)) * ((n * n) * (n * n))
+(((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))
+((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n))))
+(((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n))))) * (((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))))
+AI Bot: Here's the generated expression: (((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n))))) * (((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n))))) = 3433683820292512484657849089281
+Correct answer: 3433683820292512484657849089351
+
+AI Bot: Come on, we can do better than that!! Let me try again!
+
+
+
+AI Bot: Here's the generated expression: (((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n))))) * (((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n)))) * ((((n * n) * (n * n)) * ((n * n) * (n * n))) * (((n * n) * (n * n)) * ((n * n) * (n * n))))) = 3433683820292512484657849089281
+Correct answer: 3433683820292512484657849089281
+
+AI Bot: YEEHAW!! I KNEW I HAD IN IN ME!! GIVE ME A G! GIVE ME A P! GIVE ME A T!
+
+----------------
+
+Enter the base number (n): 3
+Enter the number of iterations (i): 3
+
+AI Bot: Let's start calculating with base 3 and 3 iterations!
+n * n
+(n * n) * (n * n)
+((n * n) * (n * n)) * ((n * n) * (n * n))
+AI Bot: Here's the generated expression: ((n * n) * (n * n)) * ((n * n) * (n * n)) = 6561
+Correct answer: 6561
+
+AI Bot: YEEHAW!! I KNEW I HAD IN IN ME!! GIVE ME A G! GIVE ME A P! GIVE ME A T!
